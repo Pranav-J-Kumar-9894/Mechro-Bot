@@ -1,0 +1,12 @@
+#tempdhum{
+    text-align: center;
+    padding:25vh ;
+  }
+
+#tempdhum h1{
+  color: #2afeb7;
+}
+  
+#tempdhum .temp{
+    padding-bottom: 15px;
+  }
