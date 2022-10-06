@@ -1,0 +1,44 @@
+#infopro .stat{
+    padding-bottom: 20px;
+  }
+  
+  #infopro .stat .head{
+    color: black;
+  }
+
+  #infopro  #icon {
+    padding-left: 100px;
+    margin: 0;
+    padding-top:-100% ;
+  }
+
+  
+  #infopro .stat #value1{
+    font-size: large;
+  }
+  
+  #infopro{
+    padding-left: 50px;
+    padding-right:50px ;
+    padding-top: 26px;
+  }
+  
+  #infopro .q1,.q2,.q3{
+    padding-bottom: 20px;
+  }
+  
+  #infopro .q1 h1{
+    color: #2afeb7;
+  }
+  
+  #infopro .q2 h1{
+    color: #2afeb7;
+  }
+  
+  #infopro .q3 h1{
+    color: #2afeb7;
+  }
+  
+  #infopro .q3 h3{
+    color: #17976d;
+  }

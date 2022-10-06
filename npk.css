@@ -1,0 +1,24 @@
+#npk h1{
+  color: #2afeb7;
+}
+
+#npk .nutri{
+    padding: 25vh;
+  }
+  
+  #npk .nutri .n,.p,.k{
+    text-align: center;
+    padding: 10px;
+  }
+  
+  #npk .nutri .n{
+    padding: 20px;
+  }
+  
+  #npk .nutri .p{
+    padding: 20px;
+  }
+  
+  #npk .nutri .k {
+    padding: 20px;
+  }
